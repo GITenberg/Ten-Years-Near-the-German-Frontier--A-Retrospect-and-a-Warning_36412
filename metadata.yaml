@@ -1,0 +1,31 @@
+_repo: Ten-Years-Near-the-German-Frontier--A-Retrospect-and-a-Warning_36412
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Egan, Maurice Francis
+    birthdate: 1852
+    deathdate: 1924
+    gutenberg_agent_id: '26158'
+    url: http://www.gutenberg.org/2009/agents/26158
+description: ''
+gutenberg_issued: '2011-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'United States Virgin Islands'
+- !lcc 'DD'
+- !lcsh 'Courts and courtiers'
+- !lcsh 'Germany -- Foreign relations -- Denmark'
+- !lcsh 'Propaganda, German'
+- !lcsh 'Denmark -- Foreign relations -- Germany'
+title: 'Ten Years Near the German Frontier: A Retrospect and a Warning'
+url: http://www.gutenberg.org/ebooks/36412

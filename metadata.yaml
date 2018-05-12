@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26158'
     url: http://www.gutenberg.org/2009/agents/26158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36412#Ten-Years-Near-the-German-Frontier--A-Retrospect-and-a-Warning
 gutenberg_issued: '2011-06-14'
 gutenberg_type: Text
 identifiers:
